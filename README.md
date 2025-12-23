@@ -2,6 +2,8 @@
 Mitra X custom Hackpad. It a 9 key custom hackpad.
 This was my first project in which i did pcb on kicad, and cad modelling in fusion 360. i had very difficulty but community helped me at its best. i learned how to make this. Now i will try making a key board at a large scale. Thanks Hackclub!!
 Also Time, it took me atleast 10 hrs divided into 2 days, Day 1- 7 hrs , Day 2- 3hrs
+
+
 <img width="338" height="346" alt="master assembly" src="https://github.com/user-attachments/assets/5471150d-99c7-49e4-b3dd-93a377fcb4df" />
 <img width="718" height="441" alt="pcb 3d view" src="https://github.com/user-attachments/assets/ff13da79-f4a6-4b65-9bfa-34db5210db5b" />
 <img width="491" height="291" alt="assembled view 3" src="https://github.com/user-attachments/assets/d19e2857-e796-4295-bfb7-31e57e7df04e" />
